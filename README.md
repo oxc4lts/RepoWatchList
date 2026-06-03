@@ -1,8 +1,6 @@
 # RepoWatchList
 
-A curated watchlist of public upstream repositories that were previously forked under `oxc4lts`.
-
-This repo is intended to replace noisy public forks with a cleaner list of original projects to watch, revisit, or study. If a fork was only used as a bookmark, it is usually cleaner to delete the fork and star/watch the upstream source repo instead.
+A curated watchlist of public upstream repositories that are worth tracking. 
 
 Last refreshed: 2026-06-03 (Asia/Singapore).
 
@@ -49,9 +47,3 @@ Last refreshed: 2026-06-03 (Asia/Singapore).
 | Quiet <=1y | 2025-09-07 | [AnkunHuang/Agentic_Design_Patterns](https://github.com/AnkunHuang/Agentic_Design_Patterns) | Hands-on guide to agentic design patterns |
 | Dormant >1y | 2024-11-05 | [Polymarket/agents](https://github.com/Polymarket/agents) | AI agents for autonomous Polymarket trading |
 | Dormant >1y | 2024-03-19 | [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) | Kungfu Trader / trading platform |
-
-## Cleanup Note
-
-These entries came from public forked repositories under `oxc4lts`.
-
-Before deleting a fork, quickly check whether it contains any unique commits or branches you still care about. If not, delete the fork and star/watch the upstream source repo instead.
